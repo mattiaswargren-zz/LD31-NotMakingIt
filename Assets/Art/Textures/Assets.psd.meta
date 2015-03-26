@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 7b5df7828df164f4bbcb9cfa4c80dff7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mattias_Walk_1
+    21300002: Mattias_Walk_2
+    21300004: Mattias_Walk_3
+    21300006: Desk_1
+    21300008: InputKeyPlate
+    21300010: Press_L
+    21300012: Press_D
+    21300014: Press_3
+    21300016: Press_1
+    21300018: Press_Empty
+    21300020: Painting1
+    21300022: Floor
+    21300024: Black
+    21300026: Sparkles
+    21300028: Painting2
+    21300030: Painting3
+    21300032: Skull
+    21300034: FeedbackSad
+    21300036: FeedbackHappy
+    21300038: Cactus
+    21300040: cyan4x4
+    21300042: Logo
+    21300044: Decoration
+    21300046: skull_blinking
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 128
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mattias_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 92
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mattias_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 92
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mattias_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 92
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desk_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 113
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: InputKeyPlate
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 42
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Press_L
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 49
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Press_D
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 49
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Press_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 49
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Press_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 49
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Press_Empty
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 49
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Painting1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Floor
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 78
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Black
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 85
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sparkles
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Painting2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 113
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Painting3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 113
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skull
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 80
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FeedbackSad
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 33
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FeedbackHappy
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 33
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cactus
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 113
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cyan4x4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 82
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Logo
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 9
+        width: 69
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Decoration
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 29
+        width: 14
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skull_blinking
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 80
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
